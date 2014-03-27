@@ -1,0 +1,2 @@
+java cj_workshop_6.Main
+pause
